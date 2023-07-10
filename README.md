@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafał</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on **SPA Hairdresser web page**
+- 🔭 I’m currently working on **SPA Hairdresser web page using Next.js and Google Places API**
 
 - 🌱 I’m currently learning **Next.js / Typescript**
 
