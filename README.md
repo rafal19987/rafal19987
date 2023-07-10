@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js / Typescript**
 
-- 👨‍💻 All of my projects are available at [https://www.rafalizdebski.pl/](https://www.rafalizdebski.pl/)
+- 👨‍💻 Some of my projects are available at [https://www.rafalizdebski.pl/](https://www.rafalizdebski.pl/)
 
 - 📫 How to reach me **rafal987.1@o2.pl**
 
