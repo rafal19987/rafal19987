@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 - 🔭 I’m currently working on **SPA Hairdresser web page using Next.js and Google Places API**
+  
+- My first application is live and available here [https://interview-questions-app.vercel.app/](https://interview-questions-app.vercel.app/) *Sometimes, however, it may not work because due to a lack of users, the Supabase database suspends the project and access to it.
 
 - 🌱 I’m currently learning **Next.js / Typescript**
 
