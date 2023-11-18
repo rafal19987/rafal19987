@@ -6,7 +6,19 @@
 
 
 # 💫 About Me:
-Hi,<br><br>I'm Rafał, an aspiring software developer primarily focusing on front-end technologies. A year ago, I made the decision to leave my job as a salesperson and concentrate solely on learning coding. During my journey, I have created several personal projects that helped me understand the concepts of front-end programming and broader programming principles.<br><br>Now, I've begun applying for junior positions in the tech industry to enhance my skills by working on real projects.<br><br>All of my projects so far are original creations and aren't based on YouTube tutorials or pre-made courses. From the initial idea to production, they are entirely my own work.<br><br>The main technologies I utilize are:<br><br>TypeScript, Next.js, Tailwind CSS, Supabase, enabling me to develop 'full-stack like apps.'<br>I also have a good understanding of JavaScript, which is incredibly helpful when working with various tools and frameworks. Concepts such as the Event Loop, Currying, Pure functions, and Hoisting are familiar to me, and I would be pleased to discuss them.<br><br>Unfortunately, my GitHub codebase doesn't entirely reflect my current skills as it's continuously evolving week by week. I'm presently focused on refactoring my "older" projects for improved performance and cleaner code. Hence, the best way to assess my skills is to invite me to an interview or provide a specific task.<br><br>You can reach me on my social platforms to find out more.
+Hi,<br><br>I'm Rafał, an aspiring software developer primarily focusing on front-end technologies. A year ago, I made the decision to leave my job as a salesperson and concentrate solely on learning coding. During my journey, I have created several personal projects that helped me understand the concepts of front-end programming and broader programming principles.<br><br>Now, I've begun applying for junior positions in the tech industry to enhance my skills by working on real projects.<br><br>All of my projects so far are original creations and aren't based on YouTube tutorials or pre-made courses. From the initial idea to production, they are entirely my own work.<br><br>
+In addition to my hands-on experience with personal projects, I have also participated in summer internships organized by SoftwareHut, based in Białystok. The internship involved the collaboration of a total of eight programmers, and our focus was on addressing Frontend challenges within the React ecosystem.
+<br>
+Throughout the internship, I undertook various responsibilities, including:
+<br>
+- Formulating a comprehensive system design using Figma for the ongoing project.
+- Task allocation among team members.
+- Regularly presenting the team's progress to the client during daily meetings.
+- Developing crucial UI components.
+- Implementing logic centered around the Redux Store.
+<br>
+<br>
+The main technologies I utilize are:<br><br>TypeScript, Next.js, Tailwind CSS, Supabase, enabling me to develop 'full-stack like apps.'<br>I also have a good understanding of JavaScript, which is incredibly helpful when working with various tools and frameworks. Concepts such as the Event Loop, Currying, Pure functions, and Hoisting are familiar to me, and I would be pleased to discuss them.<br><br>Unfortunately, my GitHub codebase doesn't entirely reflect my current skills as it's continuously evolving week by week. I'm presently focused on refactoring my "older" projects for improved performance and cleaner code. Hence, the best way to assess my skills is to invite me to an interview or provide a specific task.<br><br>You can reach me on my social platforms to find out more.
 
 
 ## 🌐 Socials:
