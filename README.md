@@ -13,7 +13,7 @@
 | Next.js, Typescript, Tailwind | https://zalewski-transport.pl/ |
 | Astro.js, React, Typescript, Tailwind | https://osiakowka.pl/ |
 | Astro.js, Typescript, Tailwind | https://deploy-preview-7--mobconcept-fr.netlify.app/projects/ |
-| React, Redux, Typescript, ChakraUI, Joi, Axios | https://unrivaled-cupcake-48582c.netlify.app/ |
+| React, Redux, Typescript, ChakraUI, OpenAI API, Joi, Axios | https://unrivaled-cupcake-48582c.netlify.app/ |
 | Next.js, Typescript, Tailwind, Google Books API | https://dynamic-table-project.vercel.app/ |
 | Next.js, Redux, Typescript, Tailwind, Shadcn, React-hook-form, zod, Nest.js, TypeORM, MySql, Docker  | https://github.com/rafal19987/learn-app |
 
