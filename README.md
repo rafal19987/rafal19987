@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Rafał</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
+- [x] Email and Password authentication with NextAuth v.5 and its middlewaree
+- [x] Email address verification functionality
+- [x] Database and ORM set up with Neon's PostgreSQLL and DrizzleORM
+- [x] Password reset functionality
+- [ ] Email templates with React Email
+- [x] Functional contact form
+- [x] Functional and styled landing page
+- [x] Admin dashboard UI
+- [x] Input validation with Zod
+- [x] Rigorous linting and TypeScript type checking
+
+
 ## Project
 | Tech | Project |
 | ----- | ------ |
