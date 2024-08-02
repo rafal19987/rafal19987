@@ -1,19 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rafał</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">I am a self-taught Front-end developer from Poland</h3>
 
-- [x] Email and Password authentication with NextAuth v.5 and its middlewaree
-- [x] Email address verification functionality
-- [x] Database and ORM set up with Neon's PostgreSQLL and DrizzleORM
-- [x] Password reset functionality
-- [ ] Email templates with React Email
-- [x] Functional contact form
-- [x] Functional and styled landing page
-- [x] Admin dashboard UI
-- [x] Input validation with Zod
-- [x] Rigorous linting and TypeScript type checking
+<p align="center">I spent most of my professional career in the electrical installation industry as a sales specialist, where I honed my communication skills and more. At the end of 2022, I decided to change careers, leaving my previous path behind. Since then, I have been developing my programming skills, focusing on frontend development and beyond.</p>
+<p align="center">Currently, I am advancing my skills towards becoming a Fullstack Developer using the Nest.js framework.</p>
 
 
-## Project
+## Some of my Projects
 | Tech | Project |
 | ----- | ------ |
 | HTML, SCSS, Javascript, Webpack | https://rafal19987.github.io/_Johny/ |
